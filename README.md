@@ -74,6 +74,9 @@ This project investigates the relationship between Chicago crime rates and daily
 - SQLAlchemy (recommended for future database operations)
 - Microsoft PowerPoint
 
+## Notebook with Code and Descriptions
+[Read our final project paper here](/chi_crime_analysis_rev4.ipynb)  
+
 ## How to Run the Analysis
 1. Import crime and weather datasets into a MySQL database.
 2. Clean and preprocess data using Python scripts.
