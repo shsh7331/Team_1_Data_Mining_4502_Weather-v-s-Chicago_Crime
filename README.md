@@ -63,7 +63,8 @@ This project investigates the relationship between Chicago crime rates and daily
 - **Public Awareness:** Promote proactive community engagement during specific seasonal windows.
 
 ## Demonstration Video
-[Watch our video demonstration here](https://cuboulder.zoom.us/rec/share/vvS4yNIFGdQwn15IPa1gxCKIjdsdoJOSSpNVBwh18jUkTjLPuyRn6I-CTF4Sb53A.jszj3JJ9PzZ9QvsS)  
+[Watch our video demonstration here](https://cuboulder.zoom.us/rec/share/vvS4yNIFGdQwn15IPa1gxCKIjdsdoJOSSpNVBwh18jUkTjLPuyRn6I-CTF4Sb53A.jszj3JJ9PzZ9QvsS) 
+[DOwnloaded Video](/GMT20250427-201623_Recording_1920x1080.mp4)
 
 ## Final Project Paper
 [Read our final project paper here](/01_ChicagoCrime_Part4.pdf)  
