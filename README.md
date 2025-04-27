@@ -1,5 +1,9 @@
 
-# Chicago Crime and Max Temp Data Mining Project
+# Chicago Crime and Max Temp Data Mining
+
+## Team Members
+- Patrick Ridley
+- Shrey Shah
 
 ## Overview
 This project explores the relationship between daily maximum temperatures and crime rates in Chicago. By integrating historical crime data with weather data, we aim to uncover patterns that can inform public safety strategies and policy decisions.
@@ -37,19 +41,32 @@ This project explores the relationship between daily maximum temperatures and cr
   - Assault and battery crimes positively correlated with higher temperatures.
   - Homicides and sex-related crimes showed weak or minimal correlation.
 
-## Key Findings
-- Crime rates rise significantly during moderate warm periods (spring and early summer).
-- Moderate temperatures promote more outdoor activities, leading to increased assault rates.
-- Public awareness and preventive strategies should be emphasized during predictable seasonal patterns.
 
-## Recommendations
-- Strategic resource allocation for law enforcement based on temperature forecasts.
-- Community initiatives targeting crime prevention during moderate temperature periods.
-- Emergency services preparedness for seasonal crime surges.
+## Project Description
+This project investigates the relationship between Chicago crime rates and daily maximum temperatures over a 15-year span (2010–2025). By integrating crime incident data with NOAA weather records, we uncover seasonal patterns and correlations that help inform public safety strategies, emergency preparedness, and urban policy-making.
 
-## Authors
-- Patrick Ridley
-- Shrey Shah
+## Research Question & Findings
+**Questions Sought:**
+- Does daily maximum temperature influence crime rates in Chicago?
+- Which types of violent crimes are most sensitive to changes in temperature?
+- How do crime patterns vary seasonally with respect to temperature changes?
+
+**Summary of Answers:**
+- Crime rates tend to rise during moderate warm temperatures, with clear peaks during spring and early summer months.
+- Assault and battery incidents show a strong positive correlation with daily maximum temperatures.
+- Homicides and sex-related crimes demonstrate weak correlations with temperature, suggesting they are influenced by other factors.
+
+## Application of This Knowledge
+- **Law Enforcement:** Allocate resources more effectively during high-risk temperature periods.
+- **Urban Planning:** Design preventive community safety initiatives based on seasonal crime trends.
+- **Emergency Services:** Enhance preparedness for predictable crime surges during moderate weather conditions.
+- **Public Awareness:** Promote proactive community engagement during specific seasonal windows.
+
+## Demonstration Video
+[Watch our video demonstration here](https://example.com/demo-video)  
+
+## Final Project Paper
+[Read our final project paper here](/01_ChicagoCrime_Part4.pdf)  
 
 ## Tools & Technologies
 - MySQL
@@ -68,6 +85,7 @@ This project explores the relationship between daily maximum temperatures and cr
 - Ensure all datasets are up-to-date and cleaned before analysis.
 - For database connections, it is recommended to use SQLAlchemy for compatibility and maintainability.
 
+
 ---
 
-© 2025 Chicago Crime and Max Temp Data Mining Project - CSPB 4502 Team 1
+© 2025 CSPB 4502 Team 1 | Chicago Crime and Max Temp Data Mining
