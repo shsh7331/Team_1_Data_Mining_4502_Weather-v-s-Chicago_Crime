@@ -65,6 +65,8 @@ This project investigates the relationship between Chicago crime rates and daily
 ## Demonstration Video
 [Watch our video demonstration here](https://cuboulder.zoom.us/rec/share/vvS4yNIFGdQwn15IPa1gxCKIjdsdoJOSSpNVBwh18jUkTjLPuyRn6I-CTF4Sb53A.jszj3JJ9PzZ9QvsS) 
 
+Recoding Password : #72yDm8
+
 - [Downloaded Video](/GMT20250427-201623_Recording_1920x1080.mp4)
 
 ## Final Project Paper
